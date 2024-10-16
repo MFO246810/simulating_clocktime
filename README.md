@@ -1,5 +1,3 @@
-# simulating_clocktime
-
 # Simulation Clock Time
 
 A C++ project that simulates a clock to manage events and processes in a time-shared system. The program schedules and tracks events, simulating clock time and the execution of processes with priority-based handling.
@@ -8,12 +6,6 @@ A C++ project that simulates a clock to manage events and processes in a time-sh
 
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files](#files)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -26,9 +18,3 @@ This project simulates the execution of processes and events within a time-share
 - **Event Handling**: Simulates user interactions and process scheduling.
 - **Multi-core Processor Support**: Simulates processes on multi-core systems for realistic performance testing.
 - **Detailed Logging**: Tracks and logs event execution for analysis.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/simulation-clocktime.git
