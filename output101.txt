@@ -1,0 +1,11 @@
+Process 0 terminated at time t = 4710ms
+It started at t = 0ms
+It used 1640 ms of CPU time, performed 5 SSD access(es), and interacted 3 time(s) with its user.
+Process Table
+Process 0 is Terminated
+Process 1 is Blocked
+Process 1 terminated at time t = 7640ms
+It started at t = 100ms
+It used 1960 ms of CPU time, performed 2 SSD access(es), and interacted 5 time(s) with its user.
+Process Table
+Process 1 is Terminated
